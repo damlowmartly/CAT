@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "keywords": [
+      "knead",
+      "kneading",
+      "biscuit",
+      "biscuits"
+    ],
+    "tags": [
+      "knead",
+      "behavior",
+      "comfort",
+      "kitten",
+      "milk"
+    ],
+    "answer": "Kneading is a leftover kitten behavior! Kittens knead their mama to stimulate milk. Adult cats do it when they feel safe and loved — you're basically a giant comfort blanket! 🐾💕"
+  },
+  {
+    "id": 2,
+    "keywords": [
+      "purr",
+      "purring"
+    ],
+    "tags": [
+      "purr",
+      "sound",
+      "heal",
+      "behavior",
+      "body",
+      "biology"
+    ],
+    "answer": "Cats purr for happiness, stress relief, and even self-healing! The 25–150 Hz frequency promotes bone density and tissue repair. Living meditation machines! 🌀"
+  },
+  {
+    "id": 3,
+    "keywords": [
+      "meow",
+      "meowing",
+      "talk",
+      "communicate",
+      "language"
+    ],
+    "tags": [
+      "meow",
+      "sound",
+      "communicate",
+      "behavior",
+      "language",
+      "human"
+    ],
+    "answer": "Adult cats almost never meow at each other — meowing is a language cats developed specifically to talk to humans! You're their chosen conversation partner! 🗣️😸"
+  },
+  {
+    "id": 4,
+    "keywords": [
+      "sleep",
+      "sleeping",
+      "nap",
+      "napping",
+      "tired",
+      "lazy"
+    ],
+    "tags": [
+      "sleep",
+      "behavior",
+      "rest",
+      "lazy",
+      "energy",
+      "hunt"
+    ],
+    "answer": "Cats sleep 12–16 hours daily because they're crepuscular hunters. Sleeping saves energy for the Big Hunt... aka the 3am zoomies! 🌙"
+  },
+  {
+    "id": 5,
+    "keywords": [
+      "hiss",
+      "hissing",
+      "growl",
+      "growling"
+    ],
+    "tags": [
+      "hiss",
+      "aggressive",
+      "behavior",
+      "warning",
+      "defensive"
+    ],
+    "answer": "Hissing means 'back off!' — it's purely defensive, not aggressive. It's a warning signal to avoid a fight, not start one! 🙀"
+  },
+  {
+    "id": 6,
+    "keywords": [
+      "catnip",
+      "nip",
+      "herb"
+    ],
+    "tags": [
+      "catnip",
+      "herb",
+      "behavior",
+      "plant",
+      "scent",
+      "euphoria"
+    ],
+    "answer": "Catnip contains nepetalactone, which triggers euphoria lasting ~10 minutes. After that, a 30-min cooldown is needed before it works again! 🌿"
+  },
+  {
+    "id": 7,
+    "keywords": [
+      "whisker",
+      "whiskers"
+    ],
+    "tags": [
+      "whisker",
+      "sense",
+      "navigate",
+      "body",
+      "anatomy",
+      "air",
+      "dark"
+    ],
+    "answer": "Whiskers are precision sensors! They match the cat's body width and detect air current changes to navigate tight spaces — even in pitch darkness! 📡"
+  },
+  {
+    "id": 8,
+    "keywords": [
+      "fall",
+      "land",
+      "righting reflex",
+      "gravity",
+      "feet"
+    ],
+    "tags": [
+      "land",
+      "fall",
+      "body",
+      "reflex",
+      "anatomy",
+      "spine"
+    ],
+    "answer": "Cats have a 'righting reflex' — they instinctively rotate mid-fall to land feet-first. Their flexible spine absorbs the impact perfectly! 🤸"
+  },
+  {
+    "id": 9,
+    "keywords": [
+      "color",
+      "colour",
+      "blind",
+      "vision",
+      "sight",
+      "see"
+    ],
+    "tags": [
+      "eye",
+      "vision",
+      "sight",
+      "color",
+      "see",
+      "body",
+      "anatomy",
+      "night"
+    ],
+    "answer": "Cats see blues and yellows well but reds appear muted. Their real superpower is night vision — they can see in just 1/6th the light humans need! 👁️✨"
+  },
+  {
+    "id": 10,
+    "keywords": [
+      "eat",
+      "food",
+      "diet",
+      "meat",
+      "nutrition",
+      "tuna",
+      "fish",
+      "hungry"
+    ],
+    "tags": [
+      "food",
+      "eat",
+      "diet",
+      "meat",
+      "nutrition",
+      "biology",
+      "carnivore",
+      "taurine"
+    ],
+    "answer": "Cats are obligate carnivores — they MUST eat meat to survive. They need taurine from animal tissue that their bodies can't produce on their own. No salads here! 🥩"
+  },
+  {
+    "id": 11,
+    "keywords": [
+      "tail",
+      "body language",
+      "signal",
+      "mood"
+    ],
+    "tags": [
+      "tail",
+      "body",
+      "behavior",
+      "signal",
+      "mood",
+      "emotion"
+    ],
+    "answer": "A cat's tail is a mood flag! Upright = happy. Puffed = scared. Low and flicking = irritated. Slow sway = locked onto prey. Living emojis! 🚩"
+  },
+  {
+    "id": 12,
+    "keywords": [
+      "life",
+      "lifespan",
+      "age",
+      "old",
+      "live",
+      "long",
+      "oldest"
+    ],
+    "tags": [
+      "age",
+      "lifespan",
+      "old",
+      "life",
+      "record",
+      "indoor",
+      "outdoor"
+    ],
+    "answer": "Indoor cats typically live 12–18 years. The oldest ever, Creme Puff, reached 38 years! Good food, vet care, and lots of naps are the secret! 👴🐱"
+  },
+  {
+    "id": 13,
+    "keywords": [
+      "breed",
+      "breeds",
+      "type",
+      "types",
+      "kinds",
+      "siamese",
+      "persian",
+      "maine coon",
+      "bengal",
+      "ragdoll"
+    ],
+    "tags": [
+      "breed",
+      "type",
+      "kinds",
+      "domestic",
+      "color",
+      "behavior",
+      "friendly",
+      "aggressive"
+    ],
+    "answer": "There are 70+ recognized cat breeds! Ragdolls and Persians are the most gentle. Bengals and Siamese are the most energetic. Maine Coons are the largest domestic breed! 🐈"
+  },
+  {
+    "id": 14,
+    "keywords": [
+      "aggressive",
+      "aggression",
+      "attack",
+      "mean",
+      "hostile",
+      "territorial"
+    ],
+    "tags": [
+      "aggressive",
+      "anger",
+      "behavior",
+      "attack",
+      "territorial",
+      "breed",
+      "color"
+    ],
+    "answer": "Cat aggression is usually territorial or fear-based. Orange cats score higher in aggression surveys. Unneutered males are the most territorial. Signs: flattened ears, puffed tail, dilated pupils! 😾"
+  },
+  {
+    "id": 15,
+    "keywords": [
+      "color",
+      "aggressive",
+      "orange",
+      "ginger",
+      "coat",
+      "fur"
+    ],
+    "tags": [
+      "color",
+      "aggressive",
+      "behavior",
+      "orange",
+      "ginger",
+      "breed",
+      "coat",
+      "appearance"
+    ],
+    "answer": "Research shows orange/ginger cats are perceived as more aggressive and less tolerant. Black cats are seen as mysterious, white cats as calm, and calicos as feisty! The color-personality link is debated by scientists though! 🟠🖤🤍"
+  },
+  {
+    "id": 16,
+    "keywords": [
+      "friendly",
+      "gentle",
+      "calm",
+      "sweet",
+      "tame",
+      "affectionate",
+      "loving"
+    ],
+    "tags": [
+      "friendly",
+      "behavior",
+      "social",
+      "breed",
+      "calm",
+      "affectionate"
+    ],
+    "answer": "The friendliest cat breeds are Ragdoll, Persian, Birman, Scottish Fold, and Sphynx. Any cat socialized well from kittenhood can be very affectionate! 💕🐱"
+  },
+  {
+    "id": 17,
+    "keywords": [
+      "scratch",
+      "scratching",
+      "mark",
+      "territory",
+      "claw"
+    ],
+    "tags": [
+      "scratch",
+      "territorial",
+      "behavior",
+      "paw",
+      "claw",
+      "mark",
+      "scent"
+    ],
+    "answer": "Scratching is territorial marking — cats leave both a visual mark AND scent from glands in their paw pads. It also stretches their muscles and maintains claw health! 🐾"
+  },
+  {
+    "id": 18,
+    "keywords": [
+      "indoor",
+      "outdoor",
+      "outside",
+      "inside",
+      "house",
+      "domestic",
+      "feral",
+      "wild"
+    ],
+    "tags": [
+      "domestic",
+      "indoor",
+      "outdoor",
+      "behavior",
+      "lifespan",
+      "danger"
+    ],
+    "answer": "Indoor cats live 2–3x longer than outdoor cats (12–18 vs 5–7 years avg). Outdoors has predators, cars, and diseases. But indoor cats need enrichment to stay happy! 🏠"
+  },
+  {
+    "id": 19,
+    "keywords": [
+      "history",
+      "origin",
+      "ancient",
+      "egypt",
+      "ancestor",
+      "evolution",
+      "evolve"
+    ],
+    "tags": [
+      "history",
+      "origin",
+      "ancient",
+      "egypt",
+      "breed",
+      "wild",
+      "ancestor"
+    ],
+    "answer": "Cats were domesticated ~10,000 years ago near the Fertile Crescent. Ancient Egyptians worshipped them and made killing a cat punishable by death! 🏺👑"
+  },
+  {
+    "id": 20,
+    "keywords": [
+      "litter",
+      "litter box",
+      "toilet",
+      "poop",
+      "pee",
+      "bathroom",
+      "potty"
+    ],
+    "tags": [
+      "behavior",
+      "instinct",
+      "wild",
+      "smell",
+      "territory"
+    ],
+    "answer": "Cats bury waste to hide their scent from predators — a wild survival instinct! If your cat stops using the litter box, it's usually a health or stress signal! 📦😅"
+  },
+  {
+    "id": 21,
+    "keywords": [
+      "annoying",
+      "annoyed",
+      "irritating",
+      "irritate",
+      "loud",
+      "noisy",
+      "vocal",
+      "needy",
+      "clingy",
+      "demanding",
+      "naughty",
+      "pest",
+      "pestering",
+      "hyper"
+    ],
+    "tags": [
+      "annoying",
+      "vocal",
+      "loud",
+      "needy",
+      "behavior",
+      "breed",
+      "personality",
+      "temperament",
+      "siamese",
+      "demanding"
+    ],
+    "answer": "The most 'annoying' cat breeds are Siamese (non-stop talking 😾), Bengal (endless energy & chaos), and Sphynx (super needy & clingy). But their owners call it 'charm'! 😂🐱"
+  },
+  {
+    "id": 22,
+    "keywords": [
+      "annoying type",
+      "most annoying",
+      "annoying breed",
+      "what type annoying",
+      "which cat annoying"
+    ],
+    "tags": [
+      "annoying",
+      "breed",
+      "ranking",
+      "personality",
+      "type",
+      "most",
+      "vocal",
+      "needy"
+    ],
+    "answer": "Top 3 most 'annoying' cat types: 🥇 Siamese — screams at 3am. 🥈 Bengal — destroys everything out of boredom. 🥉 Sphynx — won't leave you alone. Ever. 😂 But cat owners wouldn't trade them!"
+  },
+  {
+    "id": 23,
+    "keywords": [
+      "personality",
+      "temperament",
+      "character",
+      "trait",
+      "traits",
+      "disposition"
+    ],
+    "tags": [
+      "personality",
+      "temperament",
+      "behavior",
+      "breed",
+      "trait",
+      "character",
+      "type"
+    ],
+    "answer": "Cat personality varies hugely by breed! Siamese = chatty & demanding. Persian = calm & lazy. Bengal = wild & playful. Ragdoll = floppy & gentle. Maine Coon = dog-like & friendly! 🐈"
+  },
+  {
+    "id": 24,
+    "keywords": [
+      "most vocal",
+      "loudest cat",
+      "most talkative",
+      "talks most",
+      "meows most"
+    ],
+    "tags": [
+      "meow",
+      "vocal",
+      "loud",
+      "annoying",
+      "breed",
+      "siamese",
+      "sound"
+    ],
+    "answer": "The Siamese is THE most vocal cat — they hold full conversations, argue back, and wake the whole neighborhood! Burmese and Oriental cats are close runners-up. 📢😹"
+  },
+  {
+    "id": 25,
+    "keywords": [
+      "most energetic",
+      "hyper cat",
+      "crazy cat",
+      "most active",
+      "wildest cat",
+      "most playful breed"
+    ],
+    "tags": [
+      "annoying",
+      "hyper",
+      "behavior",
+      "breed",
+      "energy",
+      "bengal",
+      "play",
+      "active"
+    ],
+    "answer": "Bengal cats are the most chaotic — they run on walls, open doors, and need 2+ hours of play daily or they will redecorate your home... badly. 🐆💥"
+  },
+  {
+    "id": 26,
+    "keywords": [
+      "color annoying",
+      "annoying color",
+      "what color annoying",
+      "color most annoying",
+      "which color annoying",
+      "ginger annoying",
+      "orange annoying"
+    ],
+    "tags": [
+      "color",
+      "coat",
+      "fur",
+      "annoying",
+      "orange",
+      "ginger",
+      "breed",
+      "personality",
+      "aggressive",
+      "temperament"
+    ],
+    "answer": "The most annoying cat COLOR is orange/ginger! 🟠 Multiple studies show orange cats are rated more demanding, vocal, and mischievous. They meow more, knock things over more, and want attention constantly. Calico cats (orange+black+white) are a close second — known for their spicy attitude! 😹"
+  },
+  {
+    "id": 27,
+    "keywords": [
+      "color personality",
+      "coat personality",
+      "fur personality",
+      "color behavior",
+      "coat behavior",
+      "color temperament",
+      "coat temperament"
+    ],
+    "tags": [
+      "color",
+      "coat",
+      "fur",
+      "personality",
+      "temperament",
+      "behavior",
+      "breed",
+      "annoying",
+      "aggressive",
+      "friendly"
+    ],
+    "answer": "Cat color and personality: 🟠 Orange = demanding & vocal. 🖤 Black = mysterious & calm. 🤍 White = shy & sensitive. 🩶 Gray = gentle & quiet. 🎨 Calico = feisty & independent. 🐈 Tabby = adaptable & social. Color-personality links are debated by scientists but owners notice patterns!"
+  },
+   {
+    "id": 28,
+    "keywords": ["zoomies", "hyper at night", "run around", "crazy at night"],
+    "tags": ["zoomies", "energy", "night", "behavior", "hunt", "play"],
+    "answer": "Night zoomies come from a cat’s hunting instinct! They store energy all day and release it in explosive bursts — your hallway becomes the savanna at 3am! 🌙💨"
+  },
+  {
+    "id": 29,
+    "keywords": ["stare", "staring", "watching me", "why stare"],
+    "tags": ["stare", "behavior", "attention", "bond", "curiosity"],
+    "answer": "When your cat stares at you, it’s usually curiosity or affection! Slow blinking means they trust you — try blinking back to say 'I love you' in cat language! 👀💕"
+  },
+  {
+    "id": 30,
+    "keywords": ["belly", "show belly", "expose stomach", "roll over"],
+    "tags": ["belly", "trust", "behavior", "defense", "body"],
+    "answer": "A cat showing its belly is a sign of trust, not an invitation to touch! The belly is their most vulnerable spot — many will grab your hand if you go for it! 😼"
+  },
+  {
+    "id": 31,
+    "keywords": ["headbutt", "bunt", "bunting", "head bump"],
+    "tags": ["headbutt", "scent", "marking", "affection", "behavior"],
+    "answer": "Headbutting (bunting) is how cats mark you as theirs! They have scent glands on their head — you're officially part of their territory now! 🐱❤️"
+  },
+  {
+    "id": 32,
+    "keywords": ["lick", "licking me", "groom", "grooming"],
+    "tags": ["lick", "grooming", "bond", "social", "behavior"],
+    "answer": "If your cat licks you, you're part of their family! Grooming is a social bonding behavior cats usually reserve for trusted companions. 🧼🐾"
+  },
+  {
+    "id": 33,
+    "keywords": ["bite", "nibble", "love bite", "play bite"],
+    "tags": ["bite", "play", "affection", "behavior", "warning"],
+    "answer": "Gentle bites can be 'love bites' — playful affection! But if they get harder, it’s a signal they’ve had enough interaction. Read the mood! 😸"
+  },
+  {
+    "id": 34,
+    "keywords": ["hide", "hiding", "under bed", "stay hidden"],
+    "tags": ["hide", "fear", "stress", "behavior", "safe"],
+    "answer": "Cats hide when they feel stressed, sick, or overwhelmed. It’s their way of staying safe — in the wild, hiding means survival! 🛏️🐱"
+  },
+  {
+    "id": 35,
+    "keywords": ["bring dead animals", "gift", "mouse", "bird"],
+    "tags": ["hunt", "gift", "behavior", "instinct", "prey"],
+    "answer": "Bringing you 'gifts' like mice or birds means your cat thinks you’re a terrible hunter and wants to help feed you. It’s weird… but it’s love! 🎁😅"
+  },
+  {
+    "id": 36,
+    "keywords": ["chirp", "chatter", "clicking sound", "bird watching"],
+    "tags": ["sound", "hunt", "instinct", "behavior", "teeth"],
+    "answer": "That chirping or chattering at birds is hunting frustration! Cats mimic prey sounds or react to excitement when they can’t reach their target. 🐦😼"
+  },
+  {
+    "id": 37,
+    "keywords": ["water fear", "hate water", "why hate water"],
+    "tags": ["water", "fear", "behavior", "fur", "instinct"],
+    "answer": "Most cats dislike water because wet fur is heavy, cold, and slows them down — making them vulnerable. But some breeds actually love swimming! 💧🐱"
+  },
+  {
+    "id": 38,
+    "keywords": ["box", "sit in box", "small spaces", "why boxes"],
+    "tags": ["box", "comfort", "safe", "behavior", "hide"],
+    "answer": "Cats love boxes because they feel safe and hidden! Tight spaces reduce stress and give them a perfect ambush spot. If it fits, it sits! 📦😹"
+  },
+  {
+    "id": 39,
+    "keywords": ["mirror", "reflection", "recognize self"],
+    "tags": ["mirror", "vision", "behavior", "intelligence"],
+    "answer": "Cats usually don’t recognize themselves in mirrors. They may think it’s another cat — or just ignore it completely after realizing it’s not a threat. 🪞🐱"
+  }
+]
