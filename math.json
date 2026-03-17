@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "arithmetic",
+    "question": "What is 15 + 27?",
+    "options": ["35", "42", "38", "52"],
+    "correct": 1,
+    "explanation": "15 + 27 = 42 ✓"
+  },
+  {
+    "id": 2,
+    "category": "arithmetic",
+    "question": "What is 48 ÷ 6?",
+    "options": ["6", "8", "10", "12"],
+    "correct": 1,
+    "explanation": "48 ÷ 6 = 8 ✓"
+  },
+  {
+    "id": 3,
+    "category": "arithmetic",
+    "question": "What is 9 × 7?",
+    "options": ["56", "63", "72", "81"],
+    "correct": 1,
+    "explanation": "9 × 7 = 63 ✓"
+  },
+  {
+    "id": 4,
+    "category": "algebra",
+    "question": "Solve: x + 5 = 12. What is x?",
+    "options": ["5", "7", "8", "17"],
+    "correct": 1,
+    "explanation": "x + 5 = 12 → x = 12 - 5 = 7 ✓"
+  },
+  {
+    "id": 5,
+    "category": "algebra",
+    "question": "Solve: 2x = 16. What is x?",
+    "options": ["6", "8", "10", "14"],
+    "correct": 1,
+    "explanation": "2x = 16 → x = 16 ÷ 2 = 8 ✓"
+  },
+  {
+    "id": 6,
+    "category": "algebra",
+    "question": "Solve: 3x - 4 = 11. What is x?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 2,
+    "explanation": "3x - 4 = 11 → 3x = 15 → x = 5 ✓"
+  },
+  {
+    "id": 7,
+    "category": "geometry",
+    "question": "What is the area of a rectangle with length 8 and width 5?",
+    "options": ["13", "26", "40", "80"],
+    "correct": 2,
+    "explanation": "Area = length × width = 8 × 5 = 40 ✓"
+  },
+  {
+    "id": 8,
+    "category": "geometry",
+    "question": "What is the perimeter of a square with side 6?",
+    "options": ["12", "24", "36", "48"],
+    "correct": 1,
+    "explanation": "Perimeter = 4 × side = 4 × 6 = 24 ✓"
+  },
+  {
+    "id": 9,
+    "category": "geometry",
+    "question": "What is the circumference of a circle with radius 5? (Use π ≈ 3.14)",
+    "options": ["15.7", "31.4", "78.5", "314"],
+    "correct": 1,
+    "explanation": "Circumference = 2πr = 2 × 3.14 × 5 = 31.4 ✓"
+  },
+  {
+    "id": 10,
+    "category": "arithmetic",
+    "question": "What is 25% of 80?",
+    "options": ["16", "20", "25", "40"],
+    "correct": 1,
+    "explanation": "25% of 80 = 0.25 × 80 = 20 ✓"
+  },
+  {
+    "id": 11,
+    "category": "algebra",
+    "question": "If y = 2x + 3, what is y when x = 4?",
+    "options": ["8", "11", "14", "15"],
+    "correct": 1,
+    "explanation": "y = 2(4) + 3 = 8 + 3 = 11 ✓"
+  },
+  {
+    "id": 12,
+    "category": "geometry",
+    "question": "What is the area of a triangle with base 10 and height 6?",
+    "options": ["16", "30", "60", "120"],
+    "correct": 1,
+    "explanation": "Area = (base × height) ÷ 2 = (10 × 6) ÷ 2 = 30 ✓"
+  },
+  {
+    "id": 13,
+    "category": "arithmetic",
+    "question": "What is 12.5 + 7.5?",
+    "options": ["19.5", "20", "20.5", "21"],
+    "correct": 1,
+    "explanation": "12.5 + 7.5 = 20 ✓"
+  },
+  {
+    "id": 14,
+    "category": "algebra",
+    "question": "Simplify: 2(x + 3). Which is equivalent?",
+    "options": ["2x + 3", "2x + 5", "2x + 6", "x + 6"],
+    "correct": 2,
+    "explanation": "2(x + 3) = 2x + 2(3) = 2x + 6 ✓"
+  },
+  {
+    "id": 15,
+    "category": "geometry",
+    "question": "How many degrees are in a triangle?",
+    "options": ["90", "180", "270", "360"],
+    "correct": 1,
+    "explanation": "All triangles have angles that sum to 180 degrees ✓"
+  }
+]
