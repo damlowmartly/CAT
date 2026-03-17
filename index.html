@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+  <title>CatGPT</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <!-- compromise.js — free, no-key, in-browser NLP library -->
+  <script src="https://unpkg.com/compromise@14.14.0/builds/compromise.js"></script>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <!-- ── TOP HEADER ─────────────────────────────── -->
+  <header class="top-header">
+    <span class="logo-cat">Cat</span><span class="logo-gpt">GPT</span>
+  </header>
+
+  <!-- ── MAIN STAGE ─────────────────────────────── -->
+  <main class="stage">
+
+    <!-- Speech bubble (above the cat) -->
+    <div class="speech-wrap" id="speechWrap">
+      <div class="speech-bubble" id="speechBubble">
+        <span id="bubbleText">Purrr… hi! I was just napping! 😸</span>
+      </div>
+      <!-- Typing indicator inside bubble -->
+      <div class="typing-indicator hidden" id="typingIndicator">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+
+    <!-- Cat SVG character -->
+    <div class="cat-wrap" id="catWrap">
+      <div class="cat" id="cat">
+        <!-- Built entirely in CSS -->
+        <div class="cat-body">
+          <div class="cat-head">
+            <div class="ear ear-l"></div>
+            <div class="ear ear-r"></div>
+            <div class="inner-ear ear-l-inner"></div>
+            <div class="inner-ear ear-r-inner"></div>
+            <div class="face">
+              <div class="eye eye-l"><div class="pupil"></div></div>
+              <div class="eye eye-r"><div class="pupil"></div></div>
+              <div class="nose"></div>
+              <div class="mouth"></div>
+              <div class="cheek cheek-l"></div>
+              <div class="cheek cheek-r"></div>
+            </div>
+          </div>
+          <div class="torso">
+            <div class="belly"></div>
+            <div class="paw paw-l"></div>
+            <div class="paw paw-r"></div>
+          </div>
+          <div class="tail"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- NLP debug badge (hidden by default, shows analysis) -->
+    <div class="nlp-badge" id="nlpBadge"></div>
+
+    <!-- Quiz Modal (hidden by default) -->
+    <div class="quiz-modal hidden" id="quizModal">
+      <div class="quiz-container">
+        <div class="quiz-header">
+          <span id="quizTitle">Math Quiz</span>
+          <span id="quizProgress">1/10</span>
+        </div>
+
+        <div id="quizContent">
+          <div id="quizQuestion" class="quiz-question"></div>
+          <div id="quizOptions" class="quiz-options"></div>
+          <div id="quizExplanation" class="quiz-explanation hidden"></div>
+        </div>
+
+        <div id="quizResults" class="quiz-results hidden">
+          <div id="resultsScore" class="results-score">Score: 0/0</div>
+          <div id="resultsMessage" class="results-message"></div>
+          <div id="resultsCompliment" class="results-compliment"></div>
+          <button id="quizRetryBtn" class="quiz-button">Try Again</button>
+          <button id="quizBackBtn" class="quiz-button">Back to Chat</button>
+        </div>
+
+        <button id="quizExitBtn" class="quiz-exit-btn">✕</button>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ── MOOD BAR ────────────────────────────────── -->
+  <div class="mood-bar">
+    <span class="mood-icon" id="moodIcon">😸</span>
+    <span class="mood-label" id="moodLabel">Happy</span>
+  </div>
+
+  <!-- ── INPUT BAR ──────────────────────────────── -->
+  <footer class="input-footer">
+    <!-- Quick chips -->
+    <div class="chips" id="chips">
+      <button class="chip" data-q="Tell me a cat fact!">💡 Cat fact</button>
+    
+      
+      <button class="chip chip-quiz" data-quiz="math">📐 Math Quiz</button>
+      <button class="chip chip-quiz" data-quiz="science">🧪 Science Quiz</button>
+      <button class="chip" data-q="Why do cats purr?">❓ Why purr?</button>
+    </div>
+
+    <div class="input-row">
+      <input
+        id="userInput"
+        type="text"
+        placeholder="Ask me anything about cats!"
+        autocomplete="off"
+        maxlength="300"
+        aria-label="Message input"
+      />
+      <button id="sendBtn" aria-label="Send">
+        <!-- Paw send icon -->
+        🐾
+      </button>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
