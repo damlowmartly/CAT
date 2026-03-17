@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "biology",
+    "question": "How many bones does an adult human have?",
+    "options": ["186", "206", "226", "246"],
+    "correct": 1,
+    "explanation": "Adults have 206 bones (babies have more, but they fuse as they grow) ✓"
+  },
+  {
+    "id": 2,
+    "category": "biology",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Vacuole"],
+    "correct": 1,
+    "explanation": "Mitochondria produces energy (ATP) for cells ✓"
+  },
+  {
+    "id": 3,
+    "category": "biology",
+    "question": "What do plants use photosynthesis to produce?",
+    "options": ["Carbon dioxide", "Oxygen and glucose", "Nitrogen", "Water only"],
+    "correct": 1,
+    "explanation": "Photosynthesis produces oxygen and glucose using sunlight ✓"
+  },
+  {
+    "id": 4,
+    "category": "physics",
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Newton", "Pascal", "Watt"],
+    "correct": 1,
+    "explanation": "Newton (N) is the SI unit of force ✓"
+  },
+  {
+    "id": 5,
+    "category": "physics",
+    "question": "What does gravity always do to objects near Earth?",
+    "options": ["Pushes them up", "Pulls them toward the center of Earth", "Makes them spin", "Stops them"],
+    "correct": 1,
+    "explanation": "Gravity is a force that pulls objects toward Earth's center ✓"
+  },
+  {
+    "id": 6,
+    "category": "chemistry",
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct": 2,
+    "explanation": "Au is the symbol for Gold (from Latin 'aurum') ✓"
+  },
+  {
+    "id": 7,
+    "category": "chemistry",
+    "question": "What is H2O?",
+    "options": ["Hydrogen peroxide", "Water", "Hydrogen gas", "Oxygen gas"],
+    "correct": 1,
+    "explanation": "H2O is the chemical formula for water ✓"
+  },
+  {
+    "id": 8,
+    "category": "biology",
+    "question": "What gas do humans breathe out that plants need?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+    "correct": 2,
+    "explanation": "Humans exhale CO2 (carbon dioxide), which plants use in photosynthesis ✓"
+  },
+  {
+    "id": 9,
+    "category": "physics",
+    "question": "What is the speed of light in vacuum?",
+    "options": ["300,000 m/s", "150,000 km/s", "299,792 km/s", "100,000 m/s"],
+    "correct": 2,
+    "explanation": "Light travels at approximately 299,792 km/s in vacuum ✓"
+  },
+  {
+    "id": 10,
+    "category": "biology",
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Lungs", "Brain", "Heart", "Liver"],
+    "correct": 2,
+    "explanation": "The heart pumps blood to all parts of the body ✓"
+  },
+  {
+    "id": 11,
+    "category": "chemistry",
+    "question": "What is the pH of pure water?",
+    "options": ["0", "5", "7", "14"],
+    "correct": 2,
+    "explanation": "Pure water has a neutral pH of 7 ✓"
+  },
+  {
+    "id": 12,
+    "category": "physics",
+    "question": "What type of energy does a moving object have?",
+    "options": ["Kinetic energy", "Potential energy", "Thermal energy", "Chemical energy"],
+    "correct": 0,
+    "explanation": "Moving objects have kinetic energy ✓"
+  },
+  {
+    "id": 13,
+    "category": "biology",
+    "question": "What is the basic unit of life?",
+    "options": ["Atom", "Molecule", "Cell", "Organ"],
+    "correct": 2,
+    "explanation": "The cell is the smallest unit that can perform life functions ✓"
+  },
+  {
+    "id": 14,
+    "category": "chemistry",
+    "question": "How many elements are in the periodic table (approximately)?",
+    "options": ["50", "90", "118", "150"],
+    "correct": 2,
+    "explanation": "There are 118 confirmed elements in the periodic table ✓"
+  },
+  {
+    "id": 15,
+    "category": "physics",
+    "question": "What is the process by which water turns into vapor?",
+    "options": ["Condensation", "Freezing", "Evaporation", "Sublimation"],
+    "correct": 2,
+    "explanation": "Evaporation is when liquid water turns into water vapor ✓"
+  }
+]
