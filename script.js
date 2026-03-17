@@ -43,7 +43,6 @@
 const App = {
   facts:     [],
   knowledge: [],
-  math:      [],
   science:   [],
   busy:      false,
   mood:      'happy',
@@ -670,6 +669,7 @@ function getMathQuiz() {
   }
   return questions;
 }
+
 const QUIZ_COMPLIMENTS = {
   // 0-20%: Needs work
   poor: [
@@ -857,13 +857,12 @@ async function loadJSON(path) {
 
 async function loadAll() {
   try {
-    [App.facts, App.knowledge, App.math, App.science] = await Promise.all([
+    [App.facts, App.knowledge, App.science] = await Promise.all([
       loadJSON('facts.json'),
       loadJSON('knowledge.json'),
-      loadJSON('math.json'),
       loadJSON('science.json'),
     ]);
-    console.log(`✅ ${App.facts.length} facts, ${App.knowledge.length} knowledge entries, ${App.math.length} math questions, ${App.science.length} science questions loaded`);
+    console.log(`✅ ${App.facts.length} facts, ${App.knowledge.length} knowledge entries, ${App.science.length} science questions loaded`);
   } catch (e) {
     console.warn('⚠️ JSON load failed — live APIs still active.', e);
   }
