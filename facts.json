@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "tags": [
+      "sleep",
+      "behavior",
+      "rest",
+      "lazy"
+    ],
+    "text": "Cats sleep 12–16 hours a day — they're professional nappers! 😴"
+  },
+  {
+    "id": 2,
+    "tags": [
+      "purr",
+      "sound",
+      "heal",
+      "body",
+      "behavior"
+    ],
+    "text": "A cat's purr vibrates between 25–150 Hz, which can actually help heal bones! 🌀"
+  },
+  {
+    "id": 3,
+    "tags": [
+      "taste",
+      "food",
+      "sweet",
+      "biology"
+    ],
+    "text": "Cats can't taste sweetness — they're missing the sweet taste receptor gene. 🚫🍬"
+  },
+  {
+    "id": 4,
+    "tags": [
+      "group",
+      "social",
+      "name"
+    ],
+    "text": "A group of cats is called a 'clowder.' Sounds very fancy! 🎩"
+  },
+  {
+    "id": 5,
+    "tags": [
+      "jump",
+      "athletic",
+      "speed",
+      "body"
+    ],
+    "text": "Cats can jump up to 6 times their body length in a single leap! 🚀"
+  },
+  {
+    "id": 6,
+    "tags": [
+      "nose",
+      "smell",
+      "identity",
+      "body",
+      "anatomy"
+    ],
+    "text": "A cat's nose print is as unique as a human fingerprint! 🐾"
+  },
+  {
+    "id": 7,
+    "tags": [
+      "age",
+      "lifespan",
+      "old",
+      "life",
+      "record"
+    ],
+    "text": "Indoor cats can live 15–20 years. That's a lot of nap cycles! 🎂"
+  },
+  {
+    "id": 8,
+    "tags": [
+      "groom",
+      "clean",
+      "behavior",
+      "body"
+    ],
+    "text": "Cats spend 30–50% of waking hours grooming themselves. Total hygiene royalty! 💅"
+  },
+  {
+    "id": 9,
+    "tags": [
+      "record",
+      "age",
+      "old",
+      "life",
+      "lifespan",
+      "name",
+      "famous"
+    ],
+    "text": "The oldest cat ever, Creme Puff, lived to 38 years old! 👑"
+  },
+  {
+    "id": 10,
+    "tags": [
+      "ear",
+      "hearing",
+      "sound",
+      "body",
+      "anatomy"
+    ],
+    "text": "Cats have 32 muscles in each ear and can rotate them 180°! 👂"
+  },
+  {
+    "id": 11,
+    "tags": [
+      "speed",
+      "run",
+      "fast",
+      "body",
+      "athletic"
+    ],
+    "text": "Cats can run at up to 30 mph in short bursts — faster than most humans! 🏃"
+  },
+  {
+    "id": 12,
+    "tags": [
+      "eye",
+      "vision",
+      "sight",
+      "color",
+      "see",
+      "body",
+      "anatomy"
+    ],
+    "text": "Cats see blues and yellows well but reds appear muted. Night vision is their superpower! 👁️"
+  },
+  {
+    "id": 13,
+    "tags": [
+      "color",
+      "coat",
+      "fur",
+      "appearance",
+      "breed",
+      "orange",
+      "black",
+      "white",
+      "tabby",
+      "calico"
+    ],
+    "text": "Cat coat colors include black, white, orange, gray, cream, and patterns like tabby, calico, and tortoiseshell! 🎨"
+  },
+  {
+    "id": 14,
+    "tags": [
+      "aggressive",
+      "anger",
+      "behavior",
+      "attack",
+      "bite",
+      "territorial",
+      "breed"
+    ],
+    "text": "Aggressive cats show dilated pupils, flattened ears, and a puffed tail before attacking. Territorial behavior varies by breed! 😠"
+  },
+  {
+    "id": 15,
+    "tags": [
+      "color",
+      "coat",
+      "fur",
+      "annoying",
+      "aggressive",
+      "behavior",
+      "orange",
+      "ginger",
+      "breed",
+      "personality",
+      "temperament"
+    ],
+    "text": "Orange/ginger cats are rated the most annoying and demanding by owners in surveys! They meow more, knock things over, and crave constant attention. Calico cats are a close second for feistiness! 🟠😾"
+  },
+  {
+    "id": 16,
+    "tags": [
+      "whisker",
+      "sense",
+      "navigate",
+      "body",
+      "anatomy"
+    ],
+    "text": "Whiskers match a cat's body width and detect air currents — precision navigation sensors even in total darkness! 📡"
+  },
+  {
+    "id": 17,
+    "tags": [
+      "food",
+      "eat",
+      "diet",
+      "meat",
+      "nutrition",
+      "biology"
+    ],
+    "text": "Cats are obligate carnivores — they MUST eat meat to survive. Their bodies can't produce taurine on their own! 🥩"
+  },
+  {
+    "id": 18,
+    "tags": [
+      "land",
+      "fall",
+      "body",
+      "reflex",
+      "anatomy"
+    ],
+    "text": "Cats have a 'righting reflex' — they instinctively rotate mid-fall to land on their feet every time! 🤸"
+  },
+  {
+    "id": 19,
+    "tags": [
+      "meow",
+      "sound",
+      "communicate",
+      "behavior",
+      "language"
+    ],
+    "text": "Adult cats almost never meow at each other — meowing is a language they developed specifically to talk to humans! 🗣️"
+  },
+  {
+    "id": 20,
+    "tags": [
+      "catnip",
+      "herb",
+      "behavior",
+      "plant"
+    ],
+    "text": "Catnip triggers euphoria lasting ~10 minutes. Cats need a 30-min cooldown before it works again! 🌿"
+  },
+  {
+    "id": 21,
+    "tags": [
+      "breed",
+      "friendly",
+      "behavior",
+      "social",
+      "calm"
+    ],
+    "text": "Ragdolls, Persians, and Maine Coons are the friendliest cat breeds. Siamese tend to be the most vocal! 🐈"
+  },
+  {
+    "id": 22,
+    "tags": [
+      "breed",
+      "aggressive",
+      "territorial",
+      "behavior",
+      "color"
+    ],
+    "text": "Breeds like Siamese, Sphynx, and Bengal can be more territorial. Orange cats often rank higher in aggression surveys! 😾"
+  },
+  {
+    "id": 23,
+    "tags": [
+      "history",
+      "origin",
+      "ancient",
+      "egypt",
+      "breed"
+    ],
+    "text": "Cats were domesticated ~10,000 years ago in the Near East. Ancient Egyptians worshipped them as sacred animals! 🏺"
+  },
+  {
+    "id": 24,
+    "tags": [
+      "knead",
+      "behavior",
+      "comfort",
+      "kitten"
+    ],
+    "text": "Cats knead because it's a leftover kitten behavior — kittens knead their mama to stimulate milk flow! 🐾"
+  },
+  {
+    "id": 25,
+    "tags": [
+      "tail",
+      "body",
+      "behavior",
+      "signal",
+      "mood"
+    ],
+    "text": "A cat's tail is a mood flag! Upright = happy. Puffed = scared. Low flick = irritated. Slow sway = hunting mode! 🚩"
+  }
+]
